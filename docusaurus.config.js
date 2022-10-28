@@ -19,6 +19,8 @@ const config = {
   organizationName: 'jgarab', // Usually your GitHub org/user name.
   projectName: 'jgarab.github.io', // Usually your repo name.
   deploymentBranch: 'main',
+  trailingSlash: false,
+  
 
 
   
