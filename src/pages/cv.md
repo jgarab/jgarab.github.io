@@ -8,37 +8,31 @@ hide_table_of_contents: true
 
 # Önéletrajz
 
-## Profiljaim az interneten
+## Internetes Profiljaim
 
-[GitHub](https://github.com/yangshun) | [StackOverflow](https://stackoverflow.com/u/1751946) | [LinkedIn](https://www.linkedin.com/in/yangshun) | [Medium](https://medium.com/@yangshun) | [Facebook](https://facebook.com/yangshun) | [Twitter](https://twitter.com/yangshunz)
+[GitHub](https://github.com/jgarab) | [StackOverflow](https://stackoverflow.com/u/2556776) | [LinkedIn](https://www.linkedin.com/in/jozsefgarab) | [Quora](https://www.quora.com/profile/Jozsef-Garab) 
 
-## Professional Experience
+## Szakmai Tapasztalat
 
-### Front End Engineer, Meta (prev. Facebook)
+### Egyetemi docens, Soproni Egyetem - Informatikai és Matematikai Intézet
 
-_Oct 2019 - Present | Singapore_
+_2020 Szeptember - Jelenleg_
 
-Engineering lead in the Commerce Engineering Stores team, scaled Facebook’s e-commerce websites (Oculus and Portal) for worldwide adoption. Built React design systems and scalable web app architecture.
+Az oktatói munkám során a hangsúly a vállalatirányítási rendszereken és a minőségbiztosítás területén van. Továbbá az Informatikai és Matematikai Intézet vállalati kapcsolataiért vagyok felelős. A kutatási területem a faipar, anyagtudomány és informatika határterületei.
 
-_Nov 2017 - Sep 2019 | Menlo Park, CA_
 
-Worked on an internal JavaScript state management framework that supports Ads Manager in Ads Front-End Infra and Docusaurus.
+### Minőségmenedzsment Csoportvezető, Soproni Egyetem - Rektori Hivatal
 
-### Front End Engineer, Grab
+_2020 Október - 2020 Szeptember | Sopron_
 
-_Jul 2016 - Aug 2017_
+Fő feladatom a teljesítményértékelési rendszer fejlesztésének a koordinálása valamint az oktatás minőségbiztosítás volt. Az adminisztrív munka, valamint a menedzsment kommunikáció támogatására dashboardokat és RPA robotokat fejlesztettem MS Power Platform és UiPath segítségével.
 
-Built an internal ride simulation service to improve developer efficiency and web platform automation tools to improve the CI workflow.
+### Szenior Minőségbiztosítási Mérnök, Autoliv Kft.
 
-_Jun 2015 - Jun 2016_
+_2015 Szeptember - 2020 Szeptember | Sopronkövesd_
 
-Engineering lead for Grab for Work, an enterprise solution for simplifying business transportation.
+Mérnökként felelős voltam a dinamikus, crash tesztek lebonyolításáért. Koordináltam a teszt technikusok és a logisztikus munkáját. Az operatív munka során felmelülő problémákat a tudásunk legjava szerint próbáltuk megoldani. A munkakör technikailag egy mechatronikai mérnöki tudást igényelt, a kisebb csoport vezetése miatt pedig menedzsment készségeket sajátítottam el.
 
-### Game Producer Intern, Singapore University of Technology and Design Game Lab
-
-_May 2014 - Aug 2014 | Singapore_
-
-Game producer for team behind the creation of a Dynasty Warriors-like game for the iPad.
 
 ### Software Engineering Intern, Edison Inc, (formerly EasilyDo Inc)
 
@@ -66,14 +60,21 @@ Creator of Infima CSS framework, a tool for simplifying creation of content-driv
 
 Ex-lead developer and maintainer of NUSMods, a student-initiated open source web app that facilitates module and timetable planning for NUS students.
 
-## Education
+## Oktatás
 
-### National University of Singapore
+### Soproni Egyetem
 
-- 2010 - 2015
-- B. Computing, Computer Science.
-- First Class Honours - GPA: 4.65/5.00
-- Focus area in Interactive Media
+- 2019 - 2020
+- Mérnöktanár M.A.
+- Fókuszterületek: pedagógia, pszichológia, szakmódszertan
+
+- 2008 - 2012
+- Anyagtudományok és Technológiák Ph.D.
+- Disszertáció címe: A faanyag
+
+- 2003 - 2008
+- Okl. faipari mérnök
+- Fókuszterületek: 
 
 ### Stanford University
 
@@ -149,5 +150,18 @@ Took the classes CS109 Introduction to Probability for Computer Scientists, MS&E
 ### 2010
 
 - NUS Kent Ridge Undergraduate Scholarship
+
+## Külföldi tanulmányutak, konferenciák
+- CEEPUS Oktatói Tanulmányút, Strojnícka fakulta, Slovenská technická univerzita v Bratislave, Pozsony, Szlovákia (2023, 1 hét)
+- Erasmus+ Staff Mobility Program, Universitat Politecnica de Valencia, Valencia, Spanyolország (2022, 1 hét)
+- Mérőeszköz áttelepítés, Autoliv, Isztambul, Törökország (2015, 2 hét)
+- Szakmai oktatás, Autoliv, Brassó, Románia (2015, 3 hónap)
+- Beszállítói minőségfejlesztés, BMW, Autoliv, Changchun/Shenyang, Kína (2014, 1 hét)
+- Rövid minőségügyi megbeszélések, Autóipari OEM-ek, Európa, több lokáció (2011-2015, többször 1-2 nap)
+- Vállalatcsoporton belüli oktatások, Európa, több lokáció (2011-2020, többször 1-5 nap)
+- Ernst-Mach Ösztöndíj, TU Wien, Institute for Mechanics of Materials and Structures, Bécs, Ausztria (2010, 4 hónap)
+- The 16th International Nondestructive Testing and Evaluation of Wood Symposium, Peking, Kína, (2009, 3 nap)
+- 26th Danube- Adria Symposium on Advances in Experimental Mechanics, Leoben, Ausztria, (2009, 3 nap)
+- Gyakornok, ETH Zürich, Institute for Building Materials, Wood Physics Group, Zürich, Svájc (2009, 6 hónap)
 
 </div>
