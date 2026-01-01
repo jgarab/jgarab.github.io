@@ -1,0 +1,23 @@
+title: "József Garab"
+description: "Lecturer & researcher
+url: "https://jgarab.github.io"
+theme: null
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+plugins:
+  - jekyll-feed
+
+nav:
+  - name: Home
+    link: /
+  - name: CV
+    link: /cv
+  - name: Publications
+    link: /publications
+  - name: Teaching
+    link: /teaching
+  - name: Projects
+    link: /projects
